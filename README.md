@@ -1,4 +1,4 @@
-## Here is the some useful examples
+## Here are the some useful examples
 
 #### PHP OOP design patterns
 - There are several design patterns in Object-Oriented Programming (OOP) that can be applied in PHP, including:
